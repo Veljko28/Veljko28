@@ -18,7 +18,7 @@
 [![ASP Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veljko28&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veljko28&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🛠️ Projects done so far:
 
